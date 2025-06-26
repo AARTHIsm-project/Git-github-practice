@@ -1,2 +1,2 @@
 Git is vcs system -version control system
-git hub is a Hosting service
+git hub is a Hosting service is a software based
